@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://tenor.com/view/oh-hello-there-sassy-fab-gif-14129058" width="25%">
+  <img src="https://media1.tenor.com/images/0ed8b6e0b69defc406010a69a33492fe/tenor.gif" width="25%">
   <br><br>
   <samp>
-    ### Hi there 👋
+    Hi there 👋
     <br><br>
-    ## ⚡ Fun fact: The first computer “bug” was named after a real bug.
+    ⚡ Fun fact: The first computer “bug” was named after a real bug.
   </samp>
 </p>
