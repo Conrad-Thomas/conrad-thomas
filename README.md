@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/images/0ed8b6e0b69defc406010a69a33492fe/tenor.gif" width="25%">
+  <img src="https://media.giphy.com/media/odwqdcRHaopEI/giphy.gif" width="25%">
   <br><br>
   <samp>
     Hi there 👋
