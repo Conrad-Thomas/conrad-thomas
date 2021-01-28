@@ -8,4 +8,13 @@
   </samp>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Conrad-Thomas&theme=dark&show_icons=true&count_private=true" alt="stats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conrad-Thomas&layout=compact&theme=dark" alt="top-langs" />
+  
+  <p align="center"> ![](https://komarev.com/ghpvc/?username=Conrad-Thomas) </p>
+</p>
+
 
