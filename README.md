@@ -14,7 +14,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conrad-Thomas&layout=compact&theme=dark" alt="top-langs" />
   
-  ![](https://komarev.com/ghpvc/?username=Conrad-Thomas)
+  ![](https://komarev.com/ghpvc/?username=Conrad-Thomas&color=red)
 </p>
 
 
