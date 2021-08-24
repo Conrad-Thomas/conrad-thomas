@@ -1,7 +1,7 @@
 <!-- <p align="center"> -->
   <samp>
     <br>
-    ⚡ Fun fact: The first computer “bug” was named after a real bug.
+    ⚡ Did you know that all of the planets in our solar system can fit in between the earth and the moon, with about 2,729 miles to spare?
     </br></br>
     
   </samp>
